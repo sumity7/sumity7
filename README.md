@@ -159,9 +159,9 @@ Features:
 
 Tech Stack: React • Node.js • Express • JWT • Framer Motion • JavaScript
 
-🔗 Live Demo: NOVA E-commerce
+🔗 Live Demo:  https://nova-ecommerce-hazel.vercel.app/
 
-🔗 GitHub: nova-ecommerce repository
+🔗 GitHub:https://github.com/sumity7/nova-ecommerce
 
 ---
 
