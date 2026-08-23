@@ -44,7 +44,7 @@ I'm **Sumit Yadav**, a passionate **Full Stack Developer** and **B.Tech Computer
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript" />
+<img src="https://skillicons.dev/icons?i=java,c,javascript" />
 </p>
 
 ### 🎨 Frontend
