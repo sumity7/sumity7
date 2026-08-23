@@ -88,6 +88,8 @@ I'm **Sumit Yadav**, a passionate **Full Stack Developer** and **B.Tech Computer
 A full-stack library management application designed to manage users, library operations, authentication and seat/payment functionality.
 
 **Tech Stack:** React • Node.js • Express • MongoDB • JWT • Razorpay
+🔗 Live:
+https://student-library-management-system-ten.vercel.app/
 
 🔗 GitHub:
 https://github.com/sumity7/student-library-management-system
@@ -99,7 +101,9 @@ https://github.com/sumity7/student-library-management-system
 A full-stack hotel management application with authentication, role-based functionality and management features.
 
 **Tech Stack:** React • Node.js • Express • MongoDB • JWT
-
+ 🔗 Live:
+https://hotel-management-system-xi-seven.vercel.app
+ 
 🔗 GitHub:
 https://github.com/sumity7
 
@@ -146,6 +150,8 @@ https://github.com/sumity7/shri-hs-library
 A personal developer portfolio showcasing my skills, projects, technologies and development journey.
 
 **Tech Stack:** React • JavaScript • Tailwind CSS • Vite
+🔗 Live:
+ https://sumitydev.vercel.app/
 
 🔗 GitHub:
 https://github.com/sumity7
