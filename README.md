@@ -109,6 +109,56 @@ https://github.com/sumity7
 
 ---
 
+
+
+### 📖 Shri HS Library Website
+
+A modern responsive website developed for **Shri HS Library** with a premium and user-friendly interface.
+
+**Tech Stack:** React • Vite • Tailwind CSS • JavaScript
+
+🔗 Live:
+https://shri-hs-library-i2wl.vercel.app/
+
+🔗 GitHub:
+https://github.com/sumity7/shri-hs-library
+
+---
+
+🛒 NOVA — Premium E-commerce Store
+
+A full-stack premium e-commerce platform with a modern responsive UI, product catalogue, authentication, shopping bag, checkout, order management and an admin dashboard.
+
+Features:
+
+🛍️ Product catalogue & product details
+🔎 Search & filters
+🛒 Persistent shopping bag
+🔐 JWT authentication
+💳 Checkout & order creation
+📦 Customer order history
+📊 Admin dashboard
+📈 Revenue & order statistics
+✨ Framer Motion animations
+
+Tech Stack: React • Node.js • Express • JWT • Framer Motion • JavaScript
+
+🔗 Live Demo: NOVA E-commerce
+
+🔗 GitHub: nova-ecommerce repository
+
+### 💼 Developer Portfolio
+
+A personal developer portfolio showcasing my skills, projects, technologies and development journey.
+
+**Tech Stack:** React • JavaScript • Tailwind CSS • Vite
+🔗 Live:
+ https://sumitydev.vercel.app/
+
+🔗 GitHub:
+https://github.com/sumity7
+
+---
 ### 🍔 Food Delivery Website
 
 A complete food delivery web application with modern UI, authentication, food management, cart and ordering functionality.
@@ -125,33 +175,6 @@ https://github.com/sumity7
 An automation-based project focused on event reminders and personalized greetings using backend automation and AI-related technologies.
 
 **Tech Stack:** MERN • AI • Cron Jobs • REST APIs • Automation
-
-🔗 GitHub:
-https://github.com/sumity7
-
----
-
-### 📖 Shri HS Library Website
-
-A modern responsive website developed for **Shri HS Library** with a premium and user-friendly interface.
-
-**Tech Stack:** React • Vite • Tailwind CSS • JavaScript
-
-🔗 Live:
-https://shri-hs-library-i2wl.vercel.app/
-
-🔗 GitHub:
-https://github.com/sumity7/shri-hs-library
-
----
-
-### 💼 Developer Portfolio
-
-A personal developer portfolio showcasing my skills, projects, technologies and development journey.
-
-**Tech Stack:** React • JavaScript • Tailwind CSS • Vite
-🔗 Live:
- https://sumitydev.vercel.app/
 
 🔗 GitHub:
 https://github.com/sumity7
