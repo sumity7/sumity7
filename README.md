@@ -147,6 +147,8 @@ Tech Stack: React • Node.js • Express • JWT • Framer Motion • JavaScri
 
 🔗 GitHub: nova-ecommerce repository
 
+---
+
 ### 💼 Developer Portfolio
 
 A personal developer portfolio showcasing my skills, projects, technologies and development journey.
@@ -159,6 +161,7 @@ A personal developer portfolio showcasing my skills, projects, technologies and 
 https://github.com/sumity7
 
 ---
+
 ### 🍔 Food Delivery Website
 
 A complete food delivery web application with modern UI, authentication, food management, cart and ordering functionality.
@@ -321,11 +324,34 @@ I believe the best way to become a better developer is to **build real-world pro
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="https://sumitydev.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:syadav787034@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="tel:+917870341191">
+<img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=phone&logoColor=white" />
+</a>
+
+<a href="https://wa.me/917870341191">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
 </div>
 
----
+<br>
 
 <div align="center">
+
+📧 **[syadav787034@gmail.com](mailto:syadav787034@gmail.com)**
+📞 **+91 78703 41191**
+💬 **WhatsApp: +91 78703 41191**
+
+</div>
+
 
 ### ⭐ Thanks for visiting my profile!
 
