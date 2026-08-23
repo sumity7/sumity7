@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Sumit Yadav**
 
-### 💻 Full Stack Developer | Java Developer | B.Tech CSE Graduate
+### 💻 Full Stack Developer | B.Tech CSE Graduate
 
 <p>
   <a href="https://github.com/sumity7">
